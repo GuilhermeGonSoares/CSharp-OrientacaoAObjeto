@@ -1,0 +1,8 @@
+C:\AprendendoCSharp\NewByteBank\NewByteBank\bin\Debug\NewByteBank.exe.config
+C:\AprendendoCSharp\NewByteBank\NewByteBank\bin\Debug\NewByteBank.exe
+C:\AprendendoCSharp\NewByteBank\NewByteBank\bin\Debug\NewByteBank.pdb
+C:\AprendendoCSharp\NewByteBank\NewByteBank\obj\Debug\NewByteBank.csproj.AssemblyReference.cache
+C:\AprendendoCSharp\NewByteBank\NewByteBank\obj\Debug\NewByteBank.csproj.SuggestedBindingRedirects.cache
+C:\AprendendoCSharp\NewByteBank\NewByteBank\obj\Debug\NewByteBank.csproj.CoreCompileInputs.cache
+C:\AprendendoCSharp\NewByteBank\NewByteBank\obj\Debug\NewByteBank.exe
+C:\AprendendoCSharp\NewByteBank\NewByteBank\obj\Debug\NewByteBank.pdb
